@@ -208,7 +208,7 @@ h1,h2,h3,h4,h5,h6,p {
     left: 39%;
     top: -36%;
     transform: translateX(39%);
-    /* animation: round 2.5s linear .3s infinite ; */
+    animation: round 2.5s linear .3s infinite ;
 }
 .ban_circle::after{
     position: absolute;
